@@ -74,33 +74,49 @@ Let Ri = Rf = 10 KΩ
 
 **LPF:**
   **CIRCUIT DIAGRAM**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/13cfe981-1100-4353-9e29-26d8b7edfd09" />
 
 
   **MODEL GRAPH:**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1a2c70b-eb31-4d13-8cc0-1104ecdc4b76" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3087fe55-37da-434f-b231-b53704002ba4" />
+
 
 
   **TABULATION:**
  
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f8c2ee43-b5a6-45b3-9e2c-ee10c06d9cde" />
 
 
 
 **HPF:**
   **CIRCUIT DIAGRAM**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/8de333be-2637-4d8a-b07c-5b88dfb59660" />
 
 
   **MODEL GRAPH:**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/a8e340b2-ca44-4ed4-89b8-6b6141d5adb8" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/c159a147-dce6-4400-9543-f1e8b6cc1d05" />
+
 
 
   **TABULATION:**
+  <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/efbfea11-a996-4eaa-9342-c6faf556faff" />
+
 
   **BPF:**
   **CIRCUIT DIAGRAM**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/0417f398-55b7-492a-9c14-8395e834e474" />
 
 
   **MODEL GRAPH:**
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/933f4243-c809-4867-aad6-4dcddadf9ae0" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/baebaa27-6017-4c7e-847c-f647771f8217" />
+
 
   **TABULATION:**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/625ac35b-4084-4118-b536-4bcfae068efc" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
