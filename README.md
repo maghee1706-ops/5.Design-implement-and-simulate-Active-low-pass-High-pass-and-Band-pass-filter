@@ -116,6 +116,7 @@ Let Ri = Rf = 10 KΩ
 
 
   **TABULATION:**
+  
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/625ac35b-4084-4118-b536-4bcfae068efc" />
 
 **LT-SPICE Tool:PROCEDURE:**
