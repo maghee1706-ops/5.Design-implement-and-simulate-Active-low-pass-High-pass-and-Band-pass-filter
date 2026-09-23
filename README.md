@@ -135,6 +135,7 @@ Let Ri = Rf = 10 KΩ
   **CIRCUIT and Waveform**
  <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3e15d648-0356-4ce3-b818-2209a63001be" />
 
+<img width="724" height="1600" alt="image" src="https://github.com/user-attachments/assets/b802013d-8b16-4bd3-b77d-f8cd8e6a7657" />
 
 
 **RESULT:**
