@@ -1,4 +1,4 @@
-<img width="711" height="449" alt="image" src="https://github.com/user-attachments/assets/19448a83-5cba-46e1-9628-814ce5b666a9" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/19448a83-5cba-46e1-9628-814ce5b666a9" />
 
 # 5.Design-implement-and-simulate-Active-low-pass-High-pass-and-Band-pass-filter
 
