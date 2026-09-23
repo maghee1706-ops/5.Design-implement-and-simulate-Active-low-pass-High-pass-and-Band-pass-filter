@@ -122,7 +122,8 @@ Let Ri = Rf = 10 KΩ
   
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/625ac35b-4084-4118-b536-4bcfae068efc" />
 
-**LT-SPICE Tool:PROCEDURE:**
+**LT-SPICE Tool :PROCEDURE :**
+
 •	Double click on LT-Spice icon.
 •	New schematic window open.
 •	Pick and paste the required component from the library and draw the circuit diagram .
@@ -132,10 +133,11 @@ Let Ri = Rf = 10 KΩ
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
   **LT SPICE**
+  
   **CIRCUIT and Waveform**
- <img width="711" height="449" alt="image" src="https://github.com/user-attachments/assets/ef2f8733-7771-4a15-baa3-a12d14a56ff5" />
+  <img width="711" height="449" alt="image" src="https://github.com/user-attachments/assets/ef2f8733-7771-4a15-baa3-a12d14a56ff5" />
 
- <img width="720" height="1079" alt="image" src="https://github.com/user-attachments/assets/cae300c5-92ae-4093-a913-50d8def9f79f" />
+  <img width="720" height="1079" alt="image" src="https://github.com/user-attachments/assets/cae300c5-92ae-4093-a913-50d8def9f79f" />
 
 
 **RESULT:**
