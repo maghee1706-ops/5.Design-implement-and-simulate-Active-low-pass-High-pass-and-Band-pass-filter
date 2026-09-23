@@ -133,9 +133,9 @@ Let Ri = Rf = 10 KΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
- <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3e15d648-0356-4ce3-b818-2209a63001be" />
+ <img width="711" height="449" alt="image" src="https://github.com/user-attachments/assets/ef2f8733-7771-4a15-baa3-a12d14a56ff5" />
 
-<img width="724" height="1600" alt="image" src="https://github.com/user-attachments/assets/b802013d-8b16-4bd3-b77d-f8cd8e6a7657" />
+ <img width="720" height="1079" alt="image" src="https://github.com/user-attachments/assets/cae300c5-92ae-4093-a913-50d8def9f79f" />
 
 
 **RESULT:**
