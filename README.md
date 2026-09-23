@@ -1,4 +1,4 @@
-<img width="711" height="449" alt="image" src="https://github.com/user-attachments/assets/32eff093-a7f8-4105-a858-3437efa9b0ae" />
+
 # 5.Design-implement-and-simulate-Active-low-pass-High-pass-and-Band-pass-filter
 
 **AIM:**
@@ -77,6 +77,7 @@ Let Ri = Rf = 10 KΩ
   **CIRCUIT DIAGRAM**
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/13cfe981-1100-4353-9e29-26d8b7edfd09" />
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/13cfe981-1100-4353-9e29-26d8b7edfd09" />
 
   **MODEL GRAPH:**
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1a2c70b-eb31-4d13-8cc0-1104ecdc4b76" />
