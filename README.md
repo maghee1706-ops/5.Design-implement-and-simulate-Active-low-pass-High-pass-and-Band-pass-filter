@@ -132,6 +132,7 @@ Let Ri = Rf = 10 KΩ
   **CIRCUIT and Waveform**
  <img width="711" height="449" alt="WhatsApp Image 2026-09-23 at 1 35 49 PM" src="https://github.com/user-attachments/assets/3581d181-e6a1-4aac-9f43-14817035275e" />
 
+<img width="711" height="449" alt="image" src="https://github.com/user-attachments/assets/7c468a31-5771-42c0-9974-4500ed7a9aae" />
 
 
 **RESULT:**
